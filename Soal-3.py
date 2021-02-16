@@ -10,6 +10,8 @@ elif a >= pass_grade and b < pass_grade:
 elif a < pass_grade and b >= pass_grade:
     txt = "Anda harus mengulang ujian teori."
 else:
-    text = "Anda harus mengulang ujian teori dan praktek"
+    txt = "Anda harus mengulang ujian teori dan praktek"
 
 print(txt)
+
+# done
